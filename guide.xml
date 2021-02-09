@@ -1,0 +1,642 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="MBC 2">
+    <display-name lang="ar">MBC 2 (1080p) </display-name>
+    <url>http://www.elcinema.com</url>
+  </channel>
+  <channel id="MBC Action">
+    <display-name lang="ar">MBC Action (1080p)</display-name>
+    <url>http://www.elcinema.com</url>
+  </channel>
+  <channel id="MBC MAX">
+    <display-name lang="ar">MBC Max (1080p)</display-name>
+    <url>http://www.elcinema.com</url>
+  </channel>
+  <channel id="MBC Drama +">
+    <display-name lang="ar">MBC Plus Drama (1080p)</display-name>
+    <url>http://www.elcinema.com</url>
+  </channel>
+  <programme start="20210209090000 +0200" stop="20210209110000 +0200" channel="MBC 2">
+    <title lang="ar">Rampage</title>
+    <title lang="ar">فيلم
+               (2018)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20210209110000 +0200" stop="20210209130000 +0200" channel="MBC 2">
+    <title lang="ar">San Andreas</title>
+    <title lang="ar">فيلم
+               (2015)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20210209130000 +0200" stop="20210209133000 +0200" channel="MBC 2">
+    <title lang="ar">برنامج making the movies</title>
+    <title lang="ar">01:00  مساءً
+              [30 دقيقة]</title>
+  </programme>
+  <programme start="20210209133000 +0200" stop="20210209153000 +0200" channel="MBC 2">
+    <title lang="ar">Geostorm</title>
+    <title lang="ar">فيلم
+               (2017)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20210209153000 +0200" stop="20210209160000 +0200" channel="MBC 2">
+    <title lang="ar">Entertainment Tonight</title>
+    <title lang="ar">ﺑﺮﻧﺎﻣﺞ
+               (1981)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20210209160000 +0200" stop="20210209173000 +0200" channel="MBC 2">
+    <title lang="ar">Lower Learning</title>
+    <title lang="ar">فيلم
+               (2008)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20210209173000 +0200" stop="20210209180000 +0200" channel="MBC 2">
+    <title lang="ar">Films &amp; stars</title>
+    <title lang="ar">ﺑﺮﻧﺎﻣﺞ
+               (2008)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20210209180000 +0200" stop="20210209200000 +0200" channel="MBC 2">
+    <title lang="ar">Love the Coopers</title>
+    <title lang="ar">فيلم
+               (2015)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20210209200000 +0200" stop="20210209220000 +0200" channel="MBC 2">
+    <title lang="ar">Identity Thief</title>
+    <title lang="ar">فيلم
+               (2013)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20210209220000 +0200" stop="20210210000000 +0200" channel="MBC 2">
+    <title lang="ar">We're the Millers</title>
+    <title lang="ar">فيلم
+               (2013)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20210210000000 +0200" stop="20210210020000 +0200" channel="MBC 2">
+    <title lang="ar">Why Him?</title>
+    <title lang="ar">فيلم
+               (2016)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20210210020000 +0200" stop="20210210040000 +0200" channel="MBC 2">
+    <title lang="ar">Skyscraper</title>
+    <title lang="ar">فيلم
+               (2018)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20210210040000 +0200" stop="20210210060000 +0200" channel="MBC 2">
+    <title lang="ar">San Andreas</title>
+    <title lang="ar">فيلم
+               (2015)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20210210060000 +0200" stop="20210210063000 +0200" channel="MBC 2">
+    <title lang="ar">Films &amp; stars</title>
+    <title lang="ar">ﺑﺮﻧﺎﻣﺞ
+               (2008)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20210210063000 +0200" stop="20210210083000 +0200" channel="MBC 2">
+    <title lang="ar">The Perfect Storm</title>
+    <title lang="ar">فيلم
+               (2000)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20210210083000 +0200" stop="20210210100000 +0200" channel="MBC 2">
+    <title lang="ar">The Rebound</title>
+    <title lang="ar">فيلم
+               (2009)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20210210100000 +0200" stop="20210210120000 +0200" channel="MBC 2">
+    <title lang="ar">Love the Coopers</title>
+    <title lang="ar">فيلم
+               (2015)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20210210120000 +0200" stop="20210210133000 +0200" channel="MBC 2">
+    <title lang="ar">Robots</title>
+    <title lang="ar">فيلم
+               (2005)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20210210133000 +0200" stop="20210210153000 +0200" channel="MBC 2">
+    <title lang="ar">Kate &amp; Leopold</title>
+    <title lang="ar">فيلم
+               (2001)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20210210153000 +0200" stop="20210210160000 +0200" channel="MBC 2">
+    <title lang="ar">Entertainment Tonight</title>
+    <title lang="ar">ﺑﺮﻧﺎﻣﺞ
+               (1981)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20210210160000 +0200" stop="20210210180000 +0200" channel="MBC 2">
+    <title lang="ar">Happy Feet</title>
+    <title lang="ar">فيلم
+               (2006)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20210210180000 +0200" stop="20210210193000 +0200" channel="MBC 2">
+    <title lang="ar">Happy Feet Two</title>
+    <title lang="ar">فيلم
+               (2011)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20210210193000 +0200" stop="20210210200000 +0200" channel="MBC 2">
+    <title lang="ar">Action Zone</title>
+    <title lang="ar">ﺑﺮﻧﺎﻣﺞ
+               (2010)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20210210200000 +0200" stop="20210210220000 +0200" channel="MBC 2">
+    <title lang="ar">Life as We Know It</title>
+    <title lang="ar">فيلم
+               (2010)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20210210220000 +0200" stop="20210211000000 +0200" channel="MBC 2">
+    <title lang="ar">Wonder</title>
+    <title lang="ar">فيلم
+               (2017)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20210211000000 +0200" stop="20210211003000 +0200" channel="MBC 2">
+    <title lang="ar">Films &amp; stars</title>
+    <title lang="ar">ﺑﺮﻧﺎﻣﺞ
+               (2008)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20210211003000 +0200" stop="20210211023000 +0200" channel="MBC 2">
+    <title lang="ar">Men, Women &amp; Children</title>
+    <title lang="ar">فيلم
+               (2014)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20210211023000 +0200" stop="20210211043000 +0200" channel="MBC 2">
+    <title lang="ar">Identity Thief</title>
+    <title lang="ar">فيلم
+               (2013)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20210211043000 +0200" stop="20210211063000 +0200" channel="MBC 2">
+    <title lang="ar">Why Him?</title>
+    <title lang="ar">فيلم
+               (2016)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20210211063000 +0200" stop="20210211083000 +0200" channel="MBC 2">
+    <title lang="ar">Love the Coopers</title>
+    <title lang="ar">فيلم
+               (2015)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20210211083000 +0200" stop="20210211103000 +0200" channel="MBC 2">
+    <title lang="ar">Wonder</title>
+    <title lang="ar">فيلم
+               (2017)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20210211103000 +0200" stop="20210211123000 +0200" channel="MBC 2">
+    <title lang="ar">Life as We Know It</title>
+    <title lang="ar">فيلم
+               (2010)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20210211123000 +0200" stop="20210211140000 +0200" channel="MBC 2">
+    <title lang="ar">Flushed Away</title>
+    <title lang="ar">فيلم
+               (2006)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20210211140000 +0200" stop="20210211153000 +0200" channel="MBC 2">
+    <title lang="ar">Jersey Girl</title>
+    <title lang="ar">فيلم
+               (2004)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20210211153000 +0200" stop="20210211160000 +0200" channel="MBC 2">
+    <title lang="ar">Entertainment Tonight</title>
+    <title lang="ar">ﺑﺮﻧﺎﻣﺞ
+               (1981)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20210211160000 +0200" stop="20210211173000 +0200" channel="MBC 2">
+    <title lang="ar">Lord of the Flies</title>
+    <title lang="ar">فيلم
+               (1990)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20210211173000 +0200" stop="20210211180000 +0200" channel="MBC 2">
+    <title lang="ar">Action Zone</title>
+    <title lang="ar">ﺑﺮﻧﺎﻣﺞ
+               (2010)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20210211180000 +0200" stop="20210211193000 +0200" channel="MBC 2">
+    <title lang="ar">Where the Wild Things Are</title>
+    <title lang="ar">فيلم
+               (2009)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20210209085000 +0200" stop="20210209103000 +0200" channel="MBC Action">
+    <title lang="ar">WWE Raw</title>
+    <title lang="ar">ﺑﺮﻧﺎﻣﺞ
+               (1991)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20210209103000 +0200" stop="20210209105000 +0200" channel="MBC Action">
+    <title lang="ar">Bleach</title>
+    <title lang="ar">مسلسل
+               (2004)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20210209105000 +0200" stop="20210209111500 +0200" channel="MBC Action">
+    <title lang="ar">One Piece</title>
+    <title lang="ar">مسلسل
+               (1999)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20210209111500 +0200" stop="20210209120000 +0200" channel="MBC Action">
+    <title lang="ar">عيش الدور</title>
+    <title lang="ar">ﺑﺮﻧﺎﻣﺞ
+               (2017)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20210209120000 +0200" stop="20210209130000 +0200" channel="MBC Action">
+    <title lang="ar">ﺑﺮﻧﺎﻣﺞ إف 2: تاكلينج أوروبا</title>
+    <title lang="ar">12:00  مساءً
+              [60 دقيقة]</title>
+  </programme>
+  <programme start="20210209130000 +0200" stop="20210209133000 +0200" channel="MBC Action">
+    <title lang="ar">برنامج درايف</title>
+    <title lang="ar">01:00  مساءً
+              [30 دقيقة]</title>
+  </programme>
+  <programme start="20210209133000 +0200" stop="20210209140000 +0200" channel="MBC Action">
+    <title lang="ar">برنامج درايف</title>
+    <title lang="ar">01:30  مساءً
+              [30 دقيقة]</title>
+  </programme>
+  <programme start="20210209140000 +0200" stop="20210209144500 +0200" channel="MBC Action">
+    <title lang="ar">WWE Afterburn</title>
+    <title lang="ar">ﺑﺮﻧﺎﻣﺞ
+               (2013)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20210209144500 +0200" stop="20210209153000 +0200" channel="MBC Action">
+    <title lang="ar">Driven</title>
+    <title lang="ar">ﺑﺮﻧﺎﻣﺞ
+               (2010)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20210209153000 +0200" stop="20210209155000 +0200" channel="MBC Action">
+    <title lang="ar">Bleach</title>
+    <title lang="ar">مسلسل
+               (2004)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20210209155000 +0200" stop="20210209161500 +0200" channel="MBC Action">
+    <title lang="ar">One Piece</title>
+    <title lang="ar">مسلسل
+               (1999)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20210209161500 +0200" stop="20210209170500 +0200" channel="MBC Action">
+    <title lang="ar">ﺑﺮﻧﺎﻣﺞ إف 2: تاكلينج أوروبا</title>
+    <title lang="ar">04:15  مساءً
+              [50 دقيقة]</title>
+  </programme>
+  <programme start="20210209170500 +0200" stop="20210209173000 +0200" channel="MBC Action">
+    <title lang="ar">Ridiculousness</title>
+    <title lang="ar">ﺑﺮﻧﺎﻣﺞ
+               (2011)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20210209173000 +0200" stop="20210209180000 +0200" channel="MBC Action">
+    <title lang="ar">Ridiculousness</title>
+    <title lang="ar">ﺑﺮﻧﺎﻣﺞ
+               (2011)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20210209180000 +0200" stop="20210209200000 +0200" channel="MBC Action">
+    <title lang="ar">The Green Hornet</title>
+    <title lang="ar">فيلم
+               (2011)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20210209200000 +0200" stop="20210209210000 +0200" channel="MBC Action">
+    <title lang="ar">WWE Afterburn</title>
+    <title lang="ar">ﺑﺮﻧﺎﻣﺞ
+               (2013)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20210209210000 +0200" stop="20210209220000 +0200" channel="MBC Action">
+    <title lang="ar">ﺑﺮﻧﺎﻣﺞ Fear Factor تحدى الخوف</title>
+    <title lang="ar">09:00  مساءً
+              [60 دقيقة]</title>
+  </programme>
+  <programme start="20210209220000 +0200" stop="20210209223000 +0200" channel="MBC Action">
+    <title lang="ar">Bleach</title>
+    <title lang="ar">مسلسل
+               (2004)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20210209223000 +0200" stop="20210209230000 +0200" channel="MBC Action">
+    <title lang="ar">One Piece</title>
+    <title lang="ar">مسلسل
+               (1999)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20210209093000 +0200" stop="20210209113000 +0200" channel="MBC MAX">
+    <title lang="ar">Along Came a Spider</title>
+    <title lang="ar">فيلم
+               (2001)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20210209113000 +0200" stop="20210209130000 +0200" channel="MBC MAX">
+    <title lang="ar">True Story</title>
+    <title lang="ar">فيلم
+               (2015)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20210209130000 +0200" stop="20210209133000 +0200" channel="MBC MAX">
+    <title lang="ar">سكووب مع ريا</title>
+    <title lang="ar">ﺑﺮﻧﺎﻣﺞ
+               (2012)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20210209133000 +0200" stop="20210209153000 +0200" channel="MBC MAX">
+    <title lang="ar">The Legend of Zorro</title>
+    <title lang="ar">فيلم
+               (2005)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20210209153000 +0200" stop="20210209160000 +0200" channel="MBC MAX">
+    <title lang="ar">Hollywood Buzz</title>
+    <title lang="ar">ﺑﺮﻧﺎﻣﺞ
+               (1998)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20210209160000 +0200" stop="20210209180000 +0200" channel="MBC MAX">
+    <title lang="ar">The Prestige</title>
+    <title lang="ar">فيلم
+               (2006)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20210209180000 +0200" stop="20210209183000 +0200" channel="MBC MAX">
+    <title lang="ar">برنامج فاشين فوروارد</title>
+    <title lang="ar">06:00  مساءً
+              [30 دقيقة]</title>
+  </programme>
+  <programme start="20210209183000 +0200" stop="20210209203000 +0200" channel="MBC MAX">
+    <title lang="ar">In the Heart of the Sea</title>
+    <title lang="ar">فيلم
+               (2015)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20210209203000 +0200" stop="20210209210000 +0200" channel="MBC MAX">
+    <title lang="ar">Entertainment Tonight</title>
+    <title lang="ar">ﺑﺮﻧﺎﻣﺞ
+               (1981)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20210209210000 +0200" stop="20210209230000 +0200" channel="MBC MAX">
+    <title lang="ar">300</title>
+    <title lang="ar">فيلم
+               (2006)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20210209230000 +0200" stop="20210210003000 +0200" channel="MBC MAX">
+    <title lang="ar">300: Rise of an Empire</title>
+    <title lang="ar">فيلم
+               (2014)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20210210003000 +0200" stop="20210210010000 +0200" channel="MBC MAX">
+    <title lang="ar">Hollywood Buzz</title>
+    <title lang="ar">ﺑﺮﻧﺎﻣﺞ
+               (1998)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20210209091500 +0200" stop="20210209100000 +0200" channel="MBC Drama +">
+    <title lang="ar">Jaana Na Dil Se Door</title>
+    <title lang="ar">مسلسل
+               (2016)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20210209100000 +0200" stop="20210209104500 +0200" channel="MBC Drama +">
+    <title lang="ar">ظل الحلم</title>
+    <title lang="ar">مسلسل
+               (2017)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20210209104500 +0200" stop="20210209113000 +0200" channel="MBC Drama +">
+    <title lang="ar">Dushman e Jaan</title>
+    <title lang="ar">مسلسل
+               (2020)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20210209113000 +0200" stop="20210209121400 +0200" channel="MBC Drama +">
+    <title lang="ar">عود أخضر</title>
+    <title lang="ar">مسلسل
+               (2016)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20210209121400 +0200" stop="20210209130000 +0200" channel="MBC Drama +">
+    <title lang="ar">Nazaré</title>
+    <title lang="ar">مسلسل
+               (2019)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20210209130000 +0200" stop="20210209134500 +0200" channel="MBC Drama +">
+    <title lang="ar">مكان في القصر</title>
+    <title lang="ar">مسلسل
+               (2014)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20210209134500 +0200" stop="20210209143000 +0200" channel="MBC Drama +">
+    <title lang="ar">Rainha das Flores</title>
+    <title lang="ar">مسلسل
+               (2016)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20210209143000 +0200" stop="20210209145100 +0200" channel="MBC Drama +">
+    <title lang="ar">راجل وست ستات ج9</title>
+    <title lang="ar">مسلسل
+               (2015)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20210209145100 +0200" stop="20210209151500 +0200" channel="MBC Drama +">
+    <title lang="ar">راجل وست ستات ج9</title>
+    <title lang="ar">مسلسل
+               (2015)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20210209151500 +0200" stop="20210209160000 +0200" channel="MBC Drama +">
+    <title lang="ar">Dushman e Jaan</title>
+    <title lang="ar">مسلسل
+               (2020)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20210209160000 +0200" stop="20210209164400 +0200" channel="MBC Drama +">
+    <title lang="ar">ظل الحلم</title>
+    <title lang="ar">مسلسل
+               (2017)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20210209164400 +0200" stop="20210209173000 +0200" channel="MBC Drama +">
+    <title lang="ar">مكان في القصر</title>
+    <title lang="ar">مسلسل
+               (2014)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20210209173000 +0200" stop="20210209181700 +0200" channel="MBC Drama +">
+    <title lang="ar">عود أخضر</title>
+    <title lang="ar">مسلسل
+               (2016)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20210209181700 +0200" stop="20210209183900 +0200" channel="MBC Drama +">
+    <title lang="ar">راجل وست ستات ج9</title>
+    <title lang="ar">مسلسل
+               (2015)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20210209183900 +0200" stop="20210209184500 +0200" channel="MBC Drama +">
+    <title lang="ar">راجل وست ستات ج9</title>
+    <title lang="ar">مسلسل
+               (2015)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20210209184500 +0200" stop="20210209194500 +0200" channel="MBC Drama +">
+    <title lang="ar">Rainha das Flores</title>
+    <title lang="ar">مسلسل
+               (2016)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20210209194500 +0200" stop="20210209203000 +0200" channel="MBC Drama +">
+    <title lang="ar">ظل الحلم</title>
+    <title lang="ar">مسلسل
+               (2017)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20210209203000 +0200" stop="20210209211500 +0200" channel="MBC Drama +">
+    <title lang="ar">Jaana Na Dil Se Door</title>
+    <title lang="ar">مسلسل
+               (2016)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20210209211500 +0200" stop="20210209220000 +0200" channel="MBC Drama +">
+    <title lang="ar">Nazaré</title>
+    <title lang="ar">مسلسل
+               (2019)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20210209220000 +0200" stop="20210209224500 +0200" channel="MBC Drama +">
+    <title lang="ar">Dushman e Jaan</title>
+    <title lang="ar">مسلسل
+               (2020)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20210209224500 +0200" stop="20210209233200 +0200" channel="MBC Drama +">
+    <title lang="ar">Rainha das Flores</title>
+    <title lang="ar">مسلسل
+               (2016)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20210209233200 +0200" stop="20210209235400 +0200" channel="MBC Drama +">
+    <title lang="ar">راجل وست ستات ج9</title>
+    <title lang="ar">مسلسل
+               (2015)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+</tv>
