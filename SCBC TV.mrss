@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+  <channel>
+    <title>SCBC TV</title>
+    <pubDate>2023-10-28T23:17:04+00:00</pubDate>
+    <lastBuildDate>2023-10-28T23:17:04+00:00</lastBuildDate>
+    <image>
+      <title>SCBC TV</title>
+      <url>https://scbcmedia.com/scbc-thumbnail.png</url>
+    </image>
+    <item>
+      <title>SCBC TV</title>
+      <pubDate>Sat, 28 Oct 2023 23:17:03+01:00</pubDate>
+      <description>SCBC TV, founded in 2017, emerged as the communication conduit for the Southern Cameroons Ambazonia struggle. Its primary mission is twofold: to amplify our voice and to enlighten not only our fellow </description>
+      <guid isPermaLink="false">872c292ed31c4232892b8127c1a1b388</guid>
+      <media:category>Live</media:category>
+      <media:content url="https://jr7yvgoqya4v-hls-live.5centscdn.com/scbctelevision/c9a1fdac6e082dd89e7173244f34d7b3.sdp/playlist_dvr.m3u8" fileSize="0" duration="28800" isDefault="false">
+        <media:title />
+        <media:description>SCBC TV, founded in 2017, emerged as the communication conduit for the Southern Cameroons Ambazonia struggle. Its primary mission is twofold: to amplify our voice and to enlighten not only our fellow </media:description>
+        <media:thumbnail url="https://jr7yvgoqya4v-hls-live.5centscdn.com/scbctelevision/c9a1fdac6e082dd89e7173244f34d7b3.sdp/playlist_dvr.m3u8" />
+      </media:content>
+    </item>
+  </channel>
+</rss>
