@@ -14,7 +14,7 @@
       <media:category>live</media:category>
       <media:content url="https://jr7yvgoqya4v-hls-live.5centscdn.com/scbctelevision/c9a1fdac6e082dd89e7173244f34d7b3.sdp/playlist_dvr.m3u8" duration="3600">
         <media:title>SCBC TV</media:title>
-        <media:thumbnail url="https://scbctv.com/play.png" />
+        <media:thumbnail url="https://scbcmedia.com/scbc-thumbnail.png" />
       </media:content>
     </item>
   </channel>
