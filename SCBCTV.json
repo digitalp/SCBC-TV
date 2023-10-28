@@ -1,0 +1,38 @@
+{
+  "lastUpdated": "2022-08-02T06:44:36+00:00",
+  "providerName": "scbc",
+  "language": "en-US",
+  "liveFeeds": [
+    {
+      "id": "aef04cf1c2d24a65ab71eeee722b6066",
+      "title": "SCBC TV",
+      "content": {
+        "dateAdded": "2022-08-02T18:43:27+00:00",
+        "videos": [
+          {
+            "url": "https://jr7yvgoqya4v-hls-live.5centscdn.com/scbctelevision/c9a1fdac6e082dd89e7173244f34d7b3.sdp/playlist_dvr.m3u8",
+            "quality": "FHD",
+            "videoType": "HLS"
+          }
+        ],
+        "duration": 3600
+      },
+      "thumbnail": "https://scbcmedia.com/scbc-thumbnail.png",
+      "brandedThumbnail": "https://scbcmedia.com/scbc-thumbnail.png",
+      "shortDescription": "Southern Cameroons Broadcasting Corporation TV",
+      "longDescription": "SCBC TV, founded in 2017, emerged as the communication conduit for the Southern Cameroons Ambazonia struggle. Its primary mission is twofold: to amplify our voice and to enlighten not only our fellow compatriots but also the global community about our ongoing seven-year struggle. ",
+      "tags": [
+        "live",
+        "livefeed",
+        "stream"
+      ],
+      "rating": {
+        "rating": "UNRATED",
+        "ratingSource": "MPAA"
+      },
+      "genres": [
+        "news"
+      ]
+    }
+  ]
+}
