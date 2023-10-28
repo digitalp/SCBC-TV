@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:dcterms="http://purl.org/dc/terms/" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+  <channel>
+    <lastBuildDate>2023-10-28T21:41:40+00:00</lastBuildDate>
+    <item>
+      <guid>72ccdfbe1167458ea08cae0c24dfaca9</guid>
+      <pubDate>Oct 28, 2023</pubDate>
+      <media:title>SCBC Television</media:title>
+      <media:description>SCBC Television</media:description>
+      <media:category>Live Feed</media:category>
+      <media:thumbnail url="https://scbcmedia.com/scbc-thumbnail.png" />
+      <media:content url="https://jr7yvgoqya4v-hls-live.5centscdn.com/scbctelevision/c9a1fdac6e082dd89e7173244f34d7b3.sdp/playlist_dvr.m3u8" duration="0" />
+    </item>
+  </channel>
+</rss>
