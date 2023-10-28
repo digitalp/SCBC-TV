@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:dcterms="http://purl.org/dc/terms/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" version="0">
+  <channel>
+    <title>SCBC TV</title>
+    <pubDate>Tue, 02 Aug 2022 18:44:13 GMT</pubDate>
+    <image>
+      <title>SCBC TV</title>
+      <url>Channel image url goes here</url>
+    </image>
+    <item>
+      <title>SCBC TV</title>
+      <description>Southern Cameroons Broadcasting Corporation</description>
+      <guid isPermaLink="false">aef04cf1c2d24a65ab71eeee722b6066</guid>
+      <media:category>live</media:category>
+      <media:content url="https://jr7yvgoqya4v-hls-live.5centscdn.com/scbctelevision/c9a1fdac6e082dd89e7173244f34d7b3.sdp/playlist_dvr.m3u8" duration="3600">
+        <media:title>SCBC TV</media:title>
+        <media:thumbnail url="https://scbctv.com/play.png" />
+      </media:content>
+    </item>
+  </channel>
+</rss>
