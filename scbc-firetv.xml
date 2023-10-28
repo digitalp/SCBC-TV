@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+   <channel>
+      <title>SCBC TV</title>
+      <link>https://jr7yvgoqya4v-hls-live.5centscdn.com/scbctelevision/c9a1fdac6e082dd89e7173244f34d7b3.sdp/playlist_dvr.m3u8</link>
+      <language>en-us</language>
+      <pubDate>Mon, 02 Apr 2018 16:19:56 -0700</pubDate>
+      <lastBuildDate>Mon, 02 Apr 2018 16:19:56 -0700</lastBuildDate>
+      <managingEditor>SCBC Media</managingEditor>
+      <description>SCBC TV, founded in 2017, emerged as the communication conduit for the Southern Cameroons Ambazonia struggle. Its primary mission is twofold: to amplify our voice and to enlighten not only our fellow compatriots but also the global community about our ongoing seven-year struggle.</description>
+      <image>
+         <link>https://scbcmedia.com/scbc-thumbnail.png]</link>
+         <title>SCBC TV</title>
+         <url>[URL link to your media content]</url>
+         <description>SCBC TV, founded in 2017, emerged as the communication conduit for the Southern Cameroons Ambazonia struggle. Its primary mission is twofold: to amplify our voice and to enlighten not only our fellow compatriots but also the global community about our ongoing seven-year struggle</description>
+         <height>114</height>
+         <width>114</width>
+      </image>
+      <atom:link href=[URL link to your media content] rel="self" type="application/rss+xml" />
+      <item>
+         <title>Shade</title>
+         <pubDate>Mon, 23 Oct 2017 00:00:00 -0700</pubDate>
+         <link>[URL link to your media content]</link>
+         <description>SCBC TV, founded in 2017, emerged as the communication conduit for the Southern Cameroons Ambazonia struggle. Its primary mission is twofold: to amplify our voice and to enlighten not only our fellow compatriots but also the global community about our ongoing seven-year struggle.</description>
+         <guid isPermaLink="false">aef04cf1c2d24a65ab71eeee722b6066</guid>
+         <media:category>live</media:category>
+         <media:category>live</media:category>
+         <media:content url="https://jr7yvgoqya4v-hls-live.5centscdn.com/scbctelevision/c9a1fdac6e082dd89e7173244f34d7b3.sdp/playlist_dvr.m3u8" language="en-us" duration="120.0" medium="video" isDefault="true">
+            <media:title type="plain">SCBC TV</media:title>
+            <media:description type="html">SCBC TV, founded in 2017, emerged as the communication conduit for the Southern Cameroons Ambazonia struggle. Its primary mission is twofold: to amplify our voice and to enlighten not only our fellow compatriots but also the global community about our ongoing seven-year struggle.</media:description>
+            <media:thumbnail url=[URL link to your media content] />
+            <media:credit role="author" scheme="urn:ebu">Tom Johnson</media:credit>
+            <media:copyright url="https://creativecommons.org/licenses/by/4.0/" />
+         </media:content>
+      </item>
+   </channel>
+</rss>
