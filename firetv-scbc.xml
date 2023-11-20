@@ -13,11 +13,11 @@
          <description>Southern Cameroons Broadcasting Corporation</description>
          <guid isPermaLink="false">aef04cf1c2d24a65ab71eeee722b6067</guid>
          <media:category>All</media:category>
-         <media:category>Grass</media:category>
-         <media:content url="https://cdn.scbcmedia.com/scbctelevision/c9a1fdac6e082dd89e7173244f34d7b3.sdp/playlist.m3u8" duration="3600">
+         <media:category>LIVE</media:category>
+         <media:content url="https://cdn.scbcmedia.com/scbctelevision/c9a1fdac6e082dd89e7173244f34d7b3.sdp/playlist.m3u8" >
             <media:title type="plain">SCBC TV</media:title>
             <media:description type="html">Southern Cameroons Broadcasting Corporation</media:description>
-            <media:thumbnail url=https://scbcmedia.com/SCBC logo-512x512.png />
+            <media:thumbnail url="https://scbcmedia.com/SCBC logo-512x512.png" />
             <media:credit role="author" scheme="urn:ebu">SCBC MEDIA</media:credit>
             <media:copyright url="https://scbcmedia.com/" />
          </media:content>
