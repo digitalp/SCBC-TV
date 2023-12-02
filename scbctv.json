@@ -4,10 +4,10 @@
   "language": "en-US",
   "liveFeeds": [
     {
-      "thumbnail": "https://scbcmedia.com/scbc-thumbnail.png",
-      "brandedThumbnail": "https://scbcmedia.com/scbc-thumbnail.png",
+      "thumbnail": "https://scbcmedia.com/SCBC%20logo-512x512.png",
+      "brandedThumbnail": "https://scbcmedia.com/SCBC%20logo-512x512.png",
       "shortDescription": "Southern Cameroons Broadcasting Corporation TV",
-      "longDescription": "SCBC TV, founded in 2017, emerged as the communication conduit for the Southern Cameroons Ambazonia struggle. Its primary mission is twofold: to amplify our voice and to enlighten not only our fellow compatriots but also the global community about our ongoing seven-year struggle. ",
+      "longDescription": "SCBC TV, founded in 2017, emerged as the communication conduit for the Southern Cameroons Liberation struggle. Its primary mission is twofold: to amplify our voice and to enlighten not only our fellow compatriots but also the global community about our ongoing seven-year struggle. ",
       "rating": {
         "rating": "0",
         "ratingSource": "BBFC"
@@ -19,7 +19,7 @@
         "dateAdded": "2023-10-28T22:25:24+00:00",
         "videos": [
           {
-            "url": "https://jr7yvgoqya4v-hls-live.5centscdn.com/scbctelevision/c9a1fdac6e082dd89e7173244f34d7b3.sdp/playlist_dvr.m3u8",
+            "url": "https://cdn.scbcmedia.com/scbctelevision/c9a1fdac6e082dd89e7173244f34d7b3.sdp/playlist.m3u8",
             "quality": "HD",
             "videoType": "MP4"
           }
