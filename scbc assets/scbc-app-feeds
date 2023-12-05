@@ -11,5 +11,18 @@
       "LIVE"
     ],
     "channel_id": "13454"
+  },
+  {
+    "id": "169313",
+    "title": "SCBC TV",
+    "description": "Southern Cameroons Broadcasting Corporation",
+    "duration": "86",
+    "thumbURL": "https://github.com/digitalp/SCBC-TV/blob/master/scbc%20assets/thumb.png",
+    "imgURL": "https://github.com/digitalp/SCBC-TV/blob/master/scbc%20assets/thumb.png",
+    "videoURL": "https://cdn.scbcmedia.com/scbctelevision/c9a1fdac6e082dd89e7173244f34d7b3.sdp/playlist.m3u8?source=firetv&channel_id=13454",
+    "categories": [
+      "LIVE"
+    ],
+    "channel_id": "13454"
   }
 ]
